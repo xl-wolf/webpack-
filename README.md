@@ -114,6 +114,3 @@ webpack 在开发模式下运行的时候，每当检测到一个文件变化，
 
 7). 输出完成: 根据配置，确定要输出的文件以及文件路径
 
-5. webpack手写打包原理 以及 自定义一个loader与plugin
-
-地址：https://gitee.com/mao_bingyao/webpack.git
